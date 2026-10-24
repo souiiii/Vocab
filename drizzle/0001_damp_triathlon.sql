@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX "article_url_identity" ON "articles" USING btree ("url") WHERE "articles"."url" <> '';

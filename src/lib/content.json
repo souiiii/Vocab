@@ -1,0 +1,765 @@
+{
+  "articles": [
+    {
+      "id": "art-attention",
+      "title": "The quiet art of paying attention",
+      "author": "The Margin Editors",
+      "source": "Margin · Original essays",
+      "category": "Culture & ideas",
+      "status": "reading",
+      "content": "Attention is often described as a resource, something to be spent or saved. Yet the metaphor conceals as much as it reveals. A resource is usually diminished by use; attention, carefully practised, can become more generous. The reader who pauses over a difficult paragraph is not merely consuming information. She is cultivating a way of seeing.\n\nConsider the difference between looking at a tree and noticing it. Looking establishes that the tree is there. Noticing discovers the irregular pattern of its branches, the unexpected silver of a leaf, the small negotiation between shadow and light. Nothing has changed in the tree. Something has changed in the observer.\n\nThis distinction matters for reading. We can move our eyes across a page and emerge with an outline of its argument. We can also linger over a sentence until its choices become visible: the verb that gives it momentum, the qualification that makes it honest, the silence where an easier writer might have inserted an explanation. Close reading begins when these choices stop appearing inevitable.\n\nThe digital environment encourages a different habit. Every unfinished article sits beside another that promises to be more immediately rewarding. The cost of leaving seems negligible. Over time, however, the habit of leaving can make sustained thought feel strangely uncomfortable. We mistake this discomfort for evidence that the material is uninteresting, when it may simply be evidence that our attention is out of practice.\n\nIt would be facile to blame technology alone. Impatience predates the screen, and printed books have always been capable of putting their readers to sleep. The question is not whether a medium is virtuous. It is whether the way we use it makes room for reflection. A carefully chosen article, read with a pencil nearby, can be more nourishing than a shelf of books admired but never opened.\n\nOne useful practice is to resist collecting too much. A page covered in highlights can become a record of enthusiasm rather than understanding. Select the sentence that changed your mind. Write down the question that the author did not answer. Keep the expression you would like to use in a conversation. A small collection, revisited, has more value than an indiscriminate archive.\n\nThere is no dramatic transformation here. Attention returns through ordinary acts: finishing a paragraph, recalling an argument without looking, testing an unfamiliar word in a sentence of your own. What begins as deliberate effort gradually becomes a disposition. The world has not become more interesting. We have become more available to its interest.",
+      "url": "",
+      "published": "",
+      "progress": 0,
+      "created_at": "2026-10-24T15:55:42.636Z"
+    },
+    {
+      "id": "art-precision",
+      "title": "A case for the precise word",
+      "author": "The Margin Editors",
+      "source": "Margin · Original essays",
+      "category": "Language",
+      "status": "unread",
+      "content": "A precise word does more than decorate a sentence. It establishes a distinction that would otherwise remain invisible. To describe a colleague as reticent is not to describe her as indifferent. The first suggests a reluctance to speak; the second, an absence of concern. Confusing them can turn a quiet person into a careless one.\n\nPrecision is sometimes mistaken for complexity. A writer reaches for an elaborate synonym and assumes that the result must be more exact. But words acquire meaning through their relationships with other words, through register and rhythm, and through the particular circumstances in which they are used. A simpler word, placed well, often carries the more difficult thought.\n\nLearning vocabulary therefore requires more than pairing an unfamiliar term with a definition. We need to notice what the word commonly accompanies, what attitude it implies, and where it would sound out of place. The expression “a measured response” suggests restraint and consideration. “A calculated response” may suggest the same deliberation, but it can also introduce suspicion.\n\nThe most useful test is production. Write the word in a sentence about something you actually know. If the sentence feels forced, return to the original passage. Ask what work the word performs there. You may discover that what you wanted to collect was not a word at all, but a pattern of thought.",
+      "url": "",
+      "published": "",
+      "progress": 0,
+      "created_at": "2026-10-24T15:55:42.643Z"
+    },
+    {
+      "id": "art-uncertainty",
+      "title": "Learning to live with an unfinished thought",
+      "author": "The Margin Editors",
+      "source": "Margin · Original essays",
+      "category": "Philosophy",
+      "status": "unread",
+      "content": "We tend to reward certainty, especially when it arrives quickly. A confident answer has the social advantage of ending a conversation. An honest question has the disadvantage of extending it. Yet many of the ideas that matter most resist a tidy conclusion.\n\nSuppose two readers disagree about a character’s motives. One sees generosity; the other sees a desire for approval. Both can cite passages in support of their interpretation. The disagreement need not indicate that one has failed to understand the book. It may reveal that the author has represented a person whose motives are mixed.\n\nThis does not mean that every interpretation is equally good. Evidence still constrains what we can reasonably claim. An interpretation that accounts for a difficult passage is stronger than one that ignores it. Uncertainty is not a licence for carelessness; it is an invitation to keep looking.\n\nThe habit transfers beyond literature. In a technical discussion, a proposal may solve the immediate problem while creating a less visible dependency. To suspend judgement briefly is to give that dependency a chance to become visible. Sometimes the most rigorous thing we can say is: this is what I think, and this is what would change my mind.",
+      "url": "",
+      "published": "",
+      "progress": 0,
+      "created_at": "2026-10-24T15:55:42.643Z"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "tense-aspect",
+      "title": "Tense & aspect",
+      "group_name": "Foundations",
+      "description": "Locate an event in time; show how it unfolds.",
+      "body": "Tense locates an event in time. Aspect describes its internal shape: simple (a fact or habit), progressive (an unfolding event), perfect (an earlier event connected to a reference point), or perfect progressive (duration up to that point). The past perfect clarifies the order of two past events. Stative verbs such as know usually resist progressive forms.",
+      "examples": [
+        "I read every evening. / I am reading now.",
+        "By the time the train arrived, I had finished the chapter."
+      ],
+      "position": 0
+    },
+    {
+      "id": "modals",
+      "title": "Modals & degrees of certainty",
+      "group_name": "Foundations",
+      "description": "Express possibility, obligation and inference.",
+      "body": "Modal auxiliaries take a bare infinitive: may leave, must go. Must can express obligation or a confident deduction. Might and may often mark possibility. In past deductions, use modal + have + past participle. Must not usually prohibits; need not removes an obligation.",
+      "examples": [
+        "She must have missed the train. (deduction)",
+        "You need not finish today. (no obligation)"
+      ],
+      "position": 1
+    },
+    {
+      "id": "conditionals",
+      "title": "Conditionals & imagined worlds",
+      "group_name": "Foundations",
+      "description": "Connect conditions with consequences.",
+      "body": "A real future condition often uses if + present with will + infinitive. A remote present condition uses if + past with would + infinitive. A counterfactual past uses if + past perfect with would have + past participle. Mixed conditionals connect different times: If I had slept earlier, I would feel better now.",
+      "examples": [
+        "If I had more time, I would read the essay.",
+        "Had I known, I would have waited."
+      ],
+      "position": 2
+    },
+    {
+      "id": "voice",
+      "title": "Active & passive voice",
+      "group_name": "Foundations",
+      "description": "Choose what belongs in the foreground.",
+      "body": "In the passive, the object of a transitive verb becomes the subject: the team revised the plan → the plan was revised. Form the passive with be + past participle, preserving tense and aspect. Use it when the recipient or result matters more than the actor, or when the actor is unknown.",
+      "examples": [
+        "The editor has revised the passage.",
+        "The passage has been revised by the editor."
+      ],
+      "position": 3
+    },
+    {
+      "id": "articles",
+      "title": "Articles & prepositions",
+      "group_name": "Foundations",
+      "description": "Make reference and relationships precise.",
+      "body": "Use a/an for a singular countable noun introduced as one instance; use the for an identifiable referent. General plural and uncountable nouns often take no article: books matter; knowledge grows. Choose a/an by sound: an hour, a university. Prepositions often form fixed collocations: interested in, dependent on, an exception to.",
+      "examples": [
+        "A reader entered. The reader sat down.",
+        "She offered an honest answer at a university meeting."
+      ],
+      "position": 4
+    },
+    {
+      "id": "clauses",
+      "title": "Clauses & phrases",
+      "group_name": "Sentence craft",
+      "description": "Find the units that hold a sentence together.",
+      "body": "A finite clause contains a tensed verb and typically a subject. An independent clause can stand alone; a subordinate clause depends on another clause. A phrase functions as a unit without a complete finite subject–predicate relationship. Noun clauses serve as subjects or objects. Adverbial clauses express time, concession, reason or condition.",
+      "examples": [
+        "Although the rain had stopped, the road remained wet.",
+        "What she noticed changed the discussion."
+      ],
+      "position": 5
+    },
+    {
+      "id": "relative",
+      "title": "Relative clauses",
+      "group_name": "Sentence craft",
+      "description": "Add essential detail or a considered aside.",
+      "body": "A defining relative clause identifies the referent, without commas. A non-defining clause adds supplementary information, set off with commas. Do not normally use that for a non-defining clause. Whose marks possession; whom is a formal object form. A relative pronoun can be omitted when it is an object in a defining clause, not when it is the subject.",
+      "examples": [
+        "The book that you recommended is here.",
+        "The book, which I bought yesterday, is annotated."
+      ],
+      "position": 6
+    },
+    {
+      "id": "participles",
+      "title": "Participles & gerunds",
+      "group_name": "Sentence craft",
+      "description": "Compress ideas without dangling modifiers.",
+      "body": "An -ing form can function as a noun-like gerund or as a participle modifying a noun or adding a subordinate circumstance. Participle clauses generally share their understood subject with the main clause. “Walking home, the rain began” dangles: the rain was not walking. Verb complement choices can change meaning: stop reading versus stop to read.",
+      "examples": [
+        "Reading slowly improves my understanding.",
+        "Having finished the chapter, she closed the book."
+      ],
+      "position": 7
+    },
+    {
+      "id": "reported",
+      "title": "Reported speech",
+      "group_name": "Sentence craft",
+      "description": "Move a statement into a new perspective.",
+      "body": "Reported speech adjusts person, time reference and sometimes tense. After a past reporting verb, backshift is common: am → was; have read → had read. It is not compulsory when a fact remains true. Reported questions use statement order and if/whether for yes–no questions. Do-support disappears from the embedded question.",
+      "examples": [
+        "“Where does she work?” → He asked where she worked.",
+        "She said that the Earth orbits the Sun."
+      ],
+      "position": 8
+    },
+    {
+      "id": "structure",
+      "title": "Sentence structure & balance",
+      "group_name": "Advanced usage",
+      "description": "Control emphasis through coordination.",
+      "body": "Coordination gives elements equal status; subordination makes a relationship explicit. Parallel structures make comparable ideas easier to process. A semicolon can join related independent clauses without a conjunction. A comma alone cannot normally do that: it creates a comma splice. Let sentence length follow the relationships among ideas.",
+      "examples": [
+        "She wanted to read, to reflect and to respond.",
+        "The evidence was limited; the conclusion was tentative."
+      ],
+      "position": 9
+    },
+    {
+      "id": "inversion",
+      "title": "Inversion & emphasis",
+      "group_name": "Advanced usage",
+      "description": "Give a sentence a different centre of gravity.",
+      "body": "After fronted negative or restrictive adverbials, formal English often inverts subject and auxiliary: never have I seen; only then did she realise. Use do-support if no auxiliary is present. Not until the final page did I understand keeps inversion in the main clause. Inverted conditionals omit if: had I known; were she here; should you need help.",
+      "examples": [
+        "Rarely does a sentence reveal so much.",
+        "Not only did she read it, but she also challenged it."
+      ],
+      "position": 10
+    },
+    {
+      "id": "advanced",
+      "title": "Clefts, ellipsis & the subjunctive",
+      "group_name": "Advanced usage",
+      "description": "Shape information with advanced constructions.",
+      "body": "A cleft divides a message to focus one element: it was the rhythm that caught my attention. A pseudo-cleft begins with a what-clause: what I needed was time. Ellipsis omits recoverable material: she can read French, and he can too. The mandative subjunctive uses a base verb after certain demands: they insisted that he be present. Were can mark remote hypotheses.",
+      "examples": [
+        "What surprised me was her patience.",
+        "The committee recommended that the report be revised."
+      ],
+      "position": 11
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-tense-aspect-0",
+      "article_id": null,
+      "lesson_id": "tense-aspect",
+      "type": "Tense & aspect",
+      "prompt": "By the time we arrived, the talk ___.",
+      "options": ["had begun", "begins", "has beginning"],
+      "answer": "had begun",
+      "explanation": "The beginning preceded another past event, our arrival.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-tense-aspect-1",
+      "article_id": null,
+      "lesson_id": "tense-aspect",
+      "type": "Tense & aspect",
+      "prompt": "Which sentence emphasises duration up to now?",
+      "options": ["I have been reading for an hour.", "I read yesterday.", "I will read tomorrow."],
+      "answer": "I have been reading for an hour.",
+      "explanation": "Present perfect progressive connects activity with duration up to now.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-modals-0",
+      "article_id": null,
+      "lesson_id": "modals",
+      "type": "Modals & degrees of certainty",
+      "prompt": "Choose the past deduction.",
+      "options": ["He must have forgotten.", "He must forgot.", "He must forgetting."],
+      "answer": "He must have forgotten.",
+      "explanation": "A past deduction uses must have + past participle.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-modals-1",
+      "article_id": null,
+      "lesson_id": "modals",
+      "type": "Modals & degrees of certainty",
+      "prompt": "“You need not attend” means:",
+      "options": ["Attendance is optional.", "Attendance is forbidden.", "Attendance is certain."],
+      "answer": "Attendance is optional.",
+      "explanation": "Need not removes necessity; must not imposes a prohibition.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-conditionals-0",
+      "article_id": null,
+      "lesson_id": "conditionals",
+      "type": "Conditionals & imagined worlds",
+      "prompt": "If I had noticed the error, I ___ it.",
+      "options": ["would have corrected", "will correct", "would corrected"],
+      "answer": "would have corrected",
+      "explanation": "A counterfactual past result uses would have + past participle.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-conditionals-1",
+      "article_id": null,
+      "lesson_id": "conditionals",
+      "type": "Conditionals & imagined worlds",
+      "prompt": "Which describes an unreal present?",
+      "options": [
+        "If I were free, I would join you.",
+        "If it rains, I will stay.",
+        "If you heat ice, it melts."
+      ],
+      "answer": "If I were free, I would join you.",
+      "explanation": "The past form marks remoteness here, not past time.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-voice-0",
+      "article_id": null,
+      "lesson_id": "voice",
+      "type": "Active & passive voice",
+      "prompt": "Choose the present perfect passive.",
+      "options": [
+        "The report has been approved.",
+        "The report was approve.",
+        "The report has approving."
+      ],
+      "answer": "The report has been approved.",
+      "explanation": "Has been + past participle preserves the present perfect.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-voice-1",
+      "article_id": null,
+      "lesson_id": "voice",
+      "type": "Active & passive voice",
+      "prompt": "Why choose “The window was broken”?",
+      "options": [
+        "The actor is unknown or unimportant.",
+        "Passive verbs have no tense.",
+        "The sentence cannot have an actor."
+      ],
+      "answer": "The actor is unknown or unimportant.",
+      "explanation": "The passive foregrounds the affected window.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-articles-0",
+      "article_id": null,
+      "lesson_id": "articles",
+      "type": "Articles & prepositions",
+      "prompt": "Choose the correct phrase.",
+      "options": ["an hour", "a hour", "the an hour"],
+      "answer": "an hour",
+      "explanation": "Hour starts with a vowel sound.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-articles-1",
+      "article_id": null,
+      "lesson_id": "articles",
+      "type": "Articles & prepositions",
+      "prompt": "The outcome depends ___ the evidence.",
+      "options": ["on", "of", "at"],
+      "answer": "on",
+      "explanation": "Depend on is the conventional combination.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-clauses-0",
+      "article_id": null,
+      "lesson_id": "clauses",
+      "type": "Clauses & phrases",
+      "prompt": "In “Although it rained, we walked”, the first clause expresses:",
+      "options": ["Concession", "Purpose", "Comparison"],
+      "answer": "Concession",
+      "explanation": "Although introduces a circumstance that might have prevented the main event.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-clauses-1",
+      "article_id": null,
+      "lesson_id": "clauses",
+      "type": "Clauses & phrases",
+      "prompt": "Identify the noun clause in “I know what she meant.”",
+      "options": ["what she meant", "I know", "she"],
+      "answer": "what she meant",
+      "explanation": "The clause functions as the object of know.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-relative-0",
+      "article_id": null,
+      "lesson_id": "relative",
+      "type": "Relative clauses",
+      "prompt": "Choose the non-defining clause.",
+      "options": [
+        "Mira, who lives nearby, called.",
+        "The person who called left.",
+        "The book that fell is mine."
+      ],
+      "answer": "Mira, who lives nearby, called.",
+      "explanation": "Commas mark supplementary information.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-relative-1",
+      "article_id": null,
+      "lesson_id": "relative",
+      "type": "Relative clauses",
+      "prompt": "Can who be omitted in “The person who called left”?",
+      "options": [
+        "No; it is the subject of called.",
+        "Yes; it is always optional.",
+        "Yes; it follows a noun."
+      ],
+      "answer": "No; it is the subject of called.",
+      "explanation": "Only an object relative pronoun can normally be omitted.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-participles-0",
+      "article_id": null,
+      "lesson_id": "participles",
+      "type": "Participles & gerunds",
+      "prompt": "Choose the clear modifier.",
+      "options": [
+        "Walking home, I noticed the rain.",
+        "Walking home, the rain began.",
+        "Walking home, the umbrella broke."
+      ],
+      "answer": "Walking home, I noticed the rain.",
+      "explanation": "I is both the walker and the main-clause subject.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-participles-1",
+      "article_id": null,
+      "lesson_id": "participles",
+      "type": "Participles & gerunds",
+      "prompt": "“She stopped to read” means:",
+      "options": [
+        "She paused another activity in order to read.",
+        "She ceased reading.",
+        "She could not read."
+      ],
+      "answer": "She paused another activity in order to read.",
+      "explanation": "The infinitive expresses purpose.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-reported-0",
+      "article_id": null,
+      "lesson_id": "reported",
+      "type": "Reported speech",
+      "prompt": "Choose the reported question.",
+      "options": [
+        "He asked where I lived.",
+        "He asked where did I live.",
+        "He asked where do I lived."
+      ],
+      "answer": "He asked where I lived.",
+      "explanation": "An embedded question uses statement order.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-reported-1",
+      "article_id": null,
+      "lesson_id": "reported",
+      "type": "Reported speech",
+      "prompt": "Must a still-true fact always be backshifted?",
+      "options": ["No.", "Yes, without exception.", "Only in direct speech."],
+      "answer": "No.",
+      "explanation": "A present form can signal that it remains true.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-structure-0",
+      "article_id": null,
+      "lesson_id": "structure",
+      "type": "Sentence structure & balance",
+      "prompt": "Choose the balanced structure.",
+      "options": [
+        "She enjoys reading, writing and debating.",
+        "She enjoys reading, to write and debating.",
+        "She enjoys to read, writing and debate."
+      ],
+      "answer": "She enjoys reading, writing and debating.",
+      "explanation": "Three -ing complements give parallel structure.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-structure-1",
+      "article_id": null,
+      "lesson_id": "structure",
+      "type": "Sentence structure & balance",
+      "prompt": "Repair “It rained, we waited.”",
+      "options": ["It rained; we waited.", "It rained we waited.", "It, rained we waited."],
+      "answer": "It rained; we waited.",
+      "explanation": "A semicolon connects two independent clauses.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-inversion-0",
+      "article_id": null,
+      "lesson_id": "inversion",
+      "type": "Inversion & emphasis",
+      "prompt": "Never ___ such a thoughtful reply.",
+      "options": ["have I received", "I have received", "I received have"],
+      "answer": "have I received",
+      "explanation": "A fronted negative adverbial triggers subject–auxiliary inversion.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-inversion-1",
+      "article_id": null,
+      "lesson_id": "inversion",
+      "type": "Inversion & emphasis",
+      "prompt": "Rewrite “If I had known” without if.",
+      "options": ["Had I known", "Did I had known", "Known had I"],
+      "answer": "Had I known",
+      "explanation": "Inverted past-perfect conditionals put had before the subject.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-advanced-0",
+      "article_id": null,
+      "lesson_id": "advanced",
+      "type": "Clefts, ellipsis & the subjunctive",
+      "prompt": "Choose the mandative subjunctive.",
+      "options": [
+        "They insisted that he be present.",
+        "They insisted that he is being present.",
+        "They insisted that he been present."
+      ],
+      "answer": "They insisted that he be present.",
+      "explanation": "The base form be follows a mandative demand.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-advanced-1",
+      "article_id": null,
+      "lesson_id": "advanced",
+      "type": "Clefts, ellipsis & the subjunctive",
+      "prompt": "In “It was Mira who solved it”, the cleft foregrounds:",
+      "options": ["Mira", "The time", "The method"],
+      "answer": "Mira",
+      "explanation": "The focused element follows it was.",
+      "evidence": "",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-0",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "factual",
+      "prompt": "According to the essay, what is one useful reading practice?",
+      "options": [
+        "Collect every unfamiliar word.",
+        "Select a sentence that changed your mind.",
+        "Replace every article with a printed book."
+      ],
+      "answer": "Select a sentence that changed your mind.",
+      "explanation": "The author recommends deliberate selection and revisiting.",
+      "evidence": "Select the sentence that changed your mind.",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-1",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "main idea",
+      "prompt": "Which best expresses the central argument?",
+      "options": [
+        "Technology makes serious reading impossible.",
+        "Attention grows through deliberate, reflective practice.",
+        "Reading quickly is the best way to learn."
+      ],
+      "answer": "Attention grows through deliberate, reflective practice.",
+      "explanation": "The essay links observation, reflection and recall.",
+      "evidence": "attention, carefully practised, can become more generous.",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-2",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "inference",
+      "prompt": "What can we infer about discomfort with a difficult article?",
+      "options": [
+        "It may reflect a habit of abandoning sustained thought.",
+        "It proves the author is a poor writer.",
+        "It can only be resolved by changing devices."
+      ],
+      "answer": "It may reflect a habit of abandoning sustained thought.",
+      "explanation": "The author distinguishes disinterest from attention being out of practice.",
+      "evidence": "it may simply be evidence that our attention is out of practice.",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-3",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "tone & purpose",
+      "prompt": "How would you describe the author’s tone?",
+      "options": [
+        "Alarmist and accusatory",
+        "Reflective and gently persuasive",
+        "Dismissive and sarcastic"
+      ],
+      "answer": "Reflective and gently persuasive",
+      "explanation": "Modest suggestions and concrete observations support a measured argument.",
+      "evidence": "There is no dramatic transformation here.",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-4",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "assumption",
+      "prompt": "Which assumption underlies the recommended practice?",
+      "options": [
+        "Revisiting a small selection can deepen understanding.",
+        "More saved material always means more learning.",
+        "All digital reading is superficial."
+      ],
+      "answer": "Revisiting a small selection can deepen understanding.",
+      "explanation": "The preference for revisiting depends on valuing depth.",
+      "evidence": "A small collection, revisited, has more value than an indiscriminate archive.",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-5",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "critical reasoning",
+      "prompt": "Which observation most directly challenges the account of attention?",
+      "options": [
+        "A reliable study found deliberate close reading never improved attention.",
+        "Some readers prefer paper.",
+        "Many articles are available online."
+      ],
+      "answer": "A reliable study found deliberate close reading never improved attention.",
+      "explanation": "It challenges the proposed connection between practice and attention.",
+      "evidence": "Attention returns through ordinary acts:",
+      "subjective": false,
+      "ai_generated": false
+    },
+    {
+      "id": "q-attention-6",
+      "article_id": "art-attention",
+      "lesson_id": null,
+      "type": "summary",
+      "prompt": "Summarise the essay in 60–90 words. Include its central claim and a supporting idea.",
+      "options": [],
+      "answer": "A strong summary connects deliberate attention with close reading and revisiting selected passages.",
+      "explanation": "Self-assess fidelity, concision and the link between claim and support. No single wording is required.",
+      "evidence": "attention, carefully practised, can become more generous.",
+      "subjective": true,
+      "ai_generated": false
+    }
+  ],
+  "entries": [
+    {
+      "id": "entry-0",
+      "term": "cultivate",
+      "normalized": "cultivate",
+      "kind": "word",
+      "meaning": "Develop a quality through deliberate care.",
+      "pos": "verb",
+      "context_meaning": "Develop a quality through deliberate care.",
+      "sentence": "She is cultivating a way of seeing.",
+      "article_id": "art-attention",
+      "synonyms": "",
+      "antonyms": "",
+      "collocations": "cultivate a habit; cultivate patience",
+      "forms": "culture, cultivated",
+      "register": "neutral",
+      "pronunciation": "",
+      "examples": "",
+      "tags": "starter collection",
+      "status": "new",
+      "created_at": "2026-10-24T15:55:42.645Z"
+    },
+    {
+      "id": "entry-1",
+      "term": "reticent",
+      "normalized": "reticent",
+      "kind": "word",
+      "meaning": "Reluctant to express thoughts or feelings.",
+      "pos": "adjective",
+      "context_meaning": "Reluctant to express thoughts or feelings.",
+      "sentence": "To describe a colleague as reticent is not to describe her as indifferent.",
+      "article_id": "art-precision",
+      "synonyms": "",
+      "antonyms": "",
+      "collocations": "reticent about; a reticent person",
+      "forms": "reticence, reticently",
+      "register": "formal",
+      "pronunciation": "",
+      "examples": "",
+      "tags": "starter collection",
+      "status": "new",
+      "created_at": "2026-10-24T15:55:42.645Z"
+    },
+    {
+      "id": "entry-2",
+      "term": "a measured response",
+      "normalized": "a measured response",
+      "kind": "expression",
+      "meaning": "A considered, restrained reaction.",
+      "pos": "noun phrase",
+      "context_meaning": "A considered, restrained reaction.",
+      "sentence": "The expression “a measured response” suggests restraint and consideration.",
+      "article_id": "art-precision",
+      "synonyms": "",
+      "antonyms": "",
+      "collocations": "offer a measured response",
+      "forms": "measured, measure",
+      "register": "neutral",
+      "pronunciation": "",
+      "examples": "",
+      "tags": "starter collection",
+      "status": "new",
+      "created_at": "2026-10-24T15:55:42.645Z"
+    },
+    {
+      "id": "entry-3",
+      "term": "facile",
+      "normalized": "facile",
+      "kind": "word",
+      "meaning": "Superficially plausible while ignoring complexity.",
+      "pos": "adjective",
+      "context_meaning": "Superficially plausible while ignoring complexity.",
+      "sentence": "It would be facile to blame technology alone.",
+      "article_id": "art-attention",
+      "synonyms": "",
+      "antonyms": "",
+      "collocations": "a facile argument; a facile assumption",
+      "forms": "facilely",
+      "register": "formal",
+      "pronunciation": "",
+      "examples": "",
+      "tags": "starter collection",
+      "status": "new",
+      "created_at": "2026-10-24T15:55:42.645Z"
+    },
+    {
+      "id": "entry-4",
+      "term": "disposition",
+      "normalized": "disposition",
+      "kind": "word",
+      "meaning": "A settled tendency of character or thought.",
+      "pos": "noun",
+      "context_meaning": "A settled tendency of character or thought.",
+      "sentence": "What begins as deliberate effort gradually becomes a disposition.",
+      "article_id": "art-attention",
+      "synonyms": "",
+      "antonyms": "",
+      "collocations": "a disposition to reflect",
+      "forms": "disposed",
+      "register": "formal",
+      "pronunciation": "",
+      "examples": "",
+      "tags": "starter collection",
+      "status": "new",
+      "created_at": "2026-10-24T15:55:42.645Z"
+    }
+  ]
+}
